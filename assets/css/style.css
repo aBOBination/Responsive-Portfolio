@@ -60,7 +60,7 @@
     top: 77px; /* Header Height */
     width: 100%;
     text-align: center;
-    min-height: calc(100vh - 135px);
+    min-height: calc(100vh - 210px);
 }
 
 .about-me {
@@ -174,7 +174,10 @@
     line-height: 60px;
     width: 100%;
 }
+.copy {
+    padding-top: 30px;
 
+}
 
 @media screen and (max-width: 980px) {
 
